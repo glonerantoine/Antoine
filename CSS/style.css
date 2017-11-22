@@ -1,0 +1,68 @@
+h1
+{
+	color: red;
+	text-align: center;
+}
+.Formations 
+{
+	background-color: #8F9BEB;
+
+	width:30%;
+
+	margin: auto;
+
+}
+
+.Expérience
+{
+	background-color: #8F9BEB;
+
+	width:30%;
+
+	margin: auto;
+}
+
+.Compétences
+{
+	background-color: #8F9BEB;
+
+	width:30%;
+
+	margin:auto; 
+}
+.centre
+{
+	background-color: #8F9BEB;
+
+	width: 30%;
+
+	margin: auto;
+}
+img
+{
+	 border-radius: 110%;
+	 width: 100%;
+}
+.Citation
+{
+	width: 30%;
+	margin: auto;
+	background-color:cyan;
+	text-align: center;
+	border: 1px;
+}
+.dev
+{
+	clear: left;
+}
+.leftbox
+{
+  float: left;
+  background-color:#8FEBE1;
+  height: 1000px;
+  padding: 1%;
+}
+body
+{
+	background-color: #8F9BEB;
+}
